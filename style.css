@@ -1,1 +1,4 @@
-body{background-color:purple;}
+body{background-color:greenyellow;}
+li{
+    display:inline;
+}
