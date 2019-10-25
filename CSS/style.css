@@ -2,3 +2,10 @@ body{background-color:green;}
 li{
     display:inline;
 }
+a {
+  background-color: blue;
+  transition: background-color .5s;
+}
+a:hover {
+  background-color: red;
+}
